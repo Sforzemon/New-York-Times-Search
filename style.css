@@ -2,3 +2,16 @@ body {
     width: 80%;
     margin: auto;
 }
+#search-parameters {
+    border: 1px solid gainsboro;
+    margin-top: 15px;
+    padding: 3%;
+}
+#top-articles  {
+    border: 1px solid gainsboro;
+    margin-top: 15px;
+    padding: 3%;
+}
+footer {
+    margin-top: 20px;
+}
